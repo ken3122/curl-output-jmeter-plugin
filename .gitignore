@@ -1,0 +1,49 @@
+# Gradle build files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file (store environment-specific settings here)
+gradle.properties
+
+# Ignore Gradle GUI config
+.gradle/
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java / Kotlin
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated files
+out/
+bin/
+
+# Test reports
+test-output/
+reports/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
