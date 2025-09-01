@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'org.example.jmeter'
+group = 'io.github.ken3122.curl-output-jmeter-plugin'
 version = '1.0.0'
 
 repositories {
